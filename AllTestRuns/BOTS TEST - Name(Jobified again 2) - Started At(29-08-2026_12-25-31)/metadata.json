@@ -1,0 +1,42 @@
+{
+  "fps_average": "43.0",
+  "fps_median": "44.0",
+  "fps_diff": "1.0",
+  "app_time_average": "15813",
+  "app_time_median": "15721",
+  "app_time_diff": "92",
+  "test_name": "Jobified again 2",
+  "timestamp": "29-08-2026_12-25-31",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1U69b_IbR_0UfyDXAJkuEuW1-2g4wwL4p",
+  "github_run_id": "33245151555",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 197e8c65"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "12 kills - 6 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 231,
+  "exceptions": 2,
+  "commit_sha": "5e097a88ce26af40a1140060d678c2104aeb9dbd",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

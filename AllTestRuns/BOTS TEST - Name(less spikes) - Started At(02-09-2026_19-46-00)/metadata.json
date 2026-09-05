@@ -1,0 +1,42 @@
+{
+  "fps_average": "39.5",
+  "fps_median": "40.0",
+  "fps_diff": "0.5",
+  "app_time_average": "13711",
+  "app_time_median": "13946",
+  "app_time_diff": "-235",
+  "test_name": "less spikes",
+  "timestamp": "02-09-2026_19-46-00",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1avpXiHhoqZjsJL7MbbOc7QJpICQc-5CS",
+  "github_run_id": "33656116336",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 59b7bb43"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "11 kills - 6 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 323,
+  "exceptions": 8,
+  "commit_sha": "e5a6bc7305eaf576fc4253f7fb4eeb1a0617a024",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

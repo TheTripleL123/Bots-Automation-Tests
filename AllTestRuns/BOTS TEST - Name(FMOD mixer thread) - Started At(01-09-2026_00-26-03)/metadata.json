@@ -1,0 +1,42 @@
+{
+  "fps_average": "45.0",
+  "fps_median": "45.0",
+  "fps_diff": "-0.0",
+  "app_time_average": "10782",
+  "app_time_median": "10910",
+  "app_time_diff": "-128",
+  "test_name": "FMOD mixer thread",
+  "timestamp": "01-09-2026_00-26-03",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1h3ImP9nzyG18eTGNGwAQrioEnnLFR-el",
+  "github_run_id": "33440686856",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room aa02219d"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "fail",
+      "detail": "4/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "5 kills - 3 killers / 3 victims"
+    }
+  ],
+  "bots_joined": 4,
+  "bots_requested": 6,
+  "errors": 57,
+  "exceptions": 8,
+  "commit_sha": "00fd398fb6d57b669a53791f34ca7c15a084d3d6",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": false
+}

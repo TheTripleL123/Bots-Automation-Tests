@@ -1,0 +1,42 @@
+{
+  "fps_average": "40.3",
+  "fps_median": "40.0",
+  "fps_diff": "-0.3",
+  "app_time_average": "12817",
+  "app_time_median": "12520",
+  "app_time_diff": "297",
+  "test_name": "ASW 40 + no AA + 0.9 RS",
+  "timestamp": "01-09-2026_17-44-30",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1NVL1KaCFAGvu0ER1VXxiSSSZAa3q8sJh",
+  "github_run_id": "33520599305",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 0601ad82"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "fail",
+      "detail": "4/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "4 kills - 3 killers / 2 victims"
+    }
+  ],
+  "bots_joined": 4,
+  "bots_requested": 6,
+  "errors": 48,
+  "exceptions": 8,
+  "commit_sha": "dba93c398938f9a4b8747174c6ace6322410b069",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": false
+}

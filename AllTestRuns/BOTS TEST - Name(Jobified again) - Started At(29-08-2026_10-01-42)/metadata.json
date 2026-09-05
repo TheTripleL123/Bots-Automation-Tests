@@ -1,0 +1,42 @@
+{
+  "fps_average": "36.9",
+  "fps_median": "36.0",
+  "fps_diff": "-0.9",
+  "app_time_average": "19287",
+  "app_time_median": "20408",
+  "app_time_diff": "-1121",
+  "test_name": "Jobified again",
+  "timestamp": "29-08-2026_10-01-42",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1D5vNVYBPtoF4IQ4f8FkcE7NJ7C2u2atd",
+  "github_run_id": "33239364066",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 23114609"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "7 kills - 4 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 127,
+  "exceptions": 16,
+  "commit_sha": "5741c390055884f3454b089af86e31770175991a",
+  "commit_ref": "master",
+  "test_successful": true
+}

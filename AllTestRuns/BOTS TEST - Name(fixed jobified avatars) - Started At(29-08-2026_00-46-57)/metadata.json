@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.2",
+  "fps_median": "45.0",
+  "fps_diff": "0.8",
+  "app_time_average": "14981",
+  "app_time_median": "14525",
+  "app_time_diff": "456",
+  "test_name": "fixed jobified avatars",
+  "timestamp": "29-08-2026_00-46-57",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1XpH7AXBG5qIVwpbe-xMYCPyIsW3Na2oA",
+  "github_run_id": "33213478848",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 7a40c3bb"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "fail",
+      "detail": "5/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "6 kills - 4 killers / 4 victims"
+    }
+  ],
+  "bots_joined": 5,
+  "bots_requested": 6,
+  "errors": 151,
+  "exceptions": 2,
+  "commit_sha": "5e097a88ce26af40a1140060d678c2104aeb9dbd",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": false
+}

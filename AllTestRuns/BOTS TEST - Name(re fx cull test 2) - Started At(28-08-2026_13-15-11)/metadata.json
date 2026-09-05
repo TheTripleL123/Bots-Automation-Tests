@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.9",
+  "fps_median": "45.0",
+  "fps_diff": "0.1",
+  "app_time_average": "14302",
+  "app_time_median": "14103",
+  "app_time_diff": "199",
+  "test_name": "re fx cull test 2",
+  "timestamp": "28-08-2026_13-15-11",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1v0GN6UoNBUb1ryU7762wVD3kvmxuWN76",
+  "github_run_id": "33162126708",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 234166c0"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "fail",
+      "detail": "4/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "5 kills - 3 killers / 3 victims"
+    }
+  ],
+  "bots_joined": 4,
+  "bots_requested": 6,
+  "errors": 108,
+  "exceptions": 2,
+  "commit_sha": "ad3c0f49e30210c8e4a2097706116026a9b016c1",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": false
+}

@@ -1,0 +1,42 @@
+{
+  "fps_average": "41.2",
+  "fps_median": "43.0",
+  "fps_diff": "1.8",
+  "app_time_average": "17230",
+  "app_time_median": "16328",
+  "app_time_diff": "902",
+  "test_name": "re disable far fx",
+  "timestamp": "27-08-2026_03-11-04",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1Uisn_3pLKwoxDLA5f_bVecJEPO3AtuiP",
+  "github_run_id": "33025478169",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room d6653882"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "7 kills - 4 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 110,
+  "exceptions": 5,
+  "commit_sha": "29f0011d5ed674104ce41c9aaacd783b59aba584",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

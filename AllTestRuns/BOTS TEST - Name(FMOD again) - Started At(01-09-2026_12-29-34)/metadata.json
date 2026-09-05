@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.6",
+  "fps_median": "45.0",
+  "fps_diff": "0.4",
+  "app_time_average": "10566",
+  "app_time_median": "10508",
+  "app_time_diff": "59",
+  "test_name": "FMOD again",
+  "timestamp": "01-09-2026_12-29-34",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1yf1cKOmamgSANIL26mRkU9nFUgMsafGh",
+  "github_run_id": "33491858850",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 9c6f94dc"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "10 kills - 4 killers / 4 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 156,
+  "exceptions": 9,
+  "commit_sha": "00fd398fb6d57b669a53791f34ca7c15a084d3d6",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

@@ -1,0 +1,42 @@
+{
+  "fps_average": "43.5",
+  "fps_median": "44.0",
+  "fps_diff": "0.5",
+  "app_time_average": "15840",
+  "app_time_median": "15272",
+  "app_time_diff": "568",
+  "test_name": "jobified avatar",
+  "timestamp": "28-08-2026_19-42-26",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1cN95GKcsOQCReZg98eur0Ov_dfcid1Bc",
+  "github_run_id": "33190631969",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 197b2c48"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "fail",
+      "detail": "5/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "8 kills - 4 killers / 4 victims"
+    }
+  ],
+  "bots_joined": 5,
+  "bots_requested": 6,
+  "errors": 113,
+  "exceptions": 2,
+  "commit_sha": "2852206fefe49075d71c676b719e1085bd462e40",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": false
+}

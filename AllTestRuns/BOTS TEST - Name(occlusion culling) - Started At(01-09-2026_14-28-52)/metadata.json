@@ -1,0 +1,42 @@
+{
+  "fps_average": "42.6",
+  "fps_median": "43.0",
+  "fps_diff": "0.4",
+  "app_time_average": "16074",
+  "app_time_median": "15266",
+  "app_time_diff": "808",
+  "test_name": "occlusion culling",
+  "timestamp": "01-09-2026_14-28-52",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1lw-KbDXj6jm7LnXURnUSI4FFQlIt6XOR",
+  "github_run_id": "33502035217",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 7cf8e71e"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "8 kills - 5 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 245,
+  "exceptions": 7,
+  "commit_sha": "12d03e48172dbdb119bc2aa8f70273eb2aa0bcda",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

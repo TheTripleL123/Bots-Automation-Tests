@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.5",
+  "fps_median": "45.0",
+  "fps_diff": "0.5",
+  "app_time_average": "14116",
+  "app_time_median": "13781",
+  "app_time_diff": "335",
+  "test_name": "FMOD patch on 1.5.3",
+  "timestamp": "04-09-2026_00-25-20",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1umnumjVSNaSlNM40o1kj3zd-AWCXaXls",
+  "github_run_id": "33807181261",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 034fca17"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "13 kills - 5 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 69,
+  "exceptions": 6,
+  "commit_sha": "af704f56c3780650cbf460a85e95cc67aac4b5cd",
+  "commit_ref": "release/1.5.3",
+  "test_successful": true
+}

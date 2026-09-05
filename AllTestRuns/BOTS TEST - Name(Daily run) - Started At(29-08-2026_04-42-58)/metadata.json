@@ -1,0 +1,42 @@
+{
+  "fps_average": "35.0",
+  "fps_median": "35.0",
+  "fps_diff": "0.0",
+  "app_time_average": "21938",
+  "app_time_median": "22322",
+  "app_time_diff": "-384",
+  "test_name": "Daily run",
+  "timestamp": "29-08-2026_04-42-58",
+  "has_thumbnail": true,
+  "started_by": "Nightly",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1pZq8rFej98uJVQx9jpNh12qVgaVd-Gog",
+  "github_run_id": "33219662519",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 3d21bae5"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "9 kills - 5 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 207,
+  "exceptions": 14,
+  "commit_sha": "5741c390055884f3454b089af86e31770175991a",
+  "commit_ref": "master",
+  "test_successful": true
+}

@@ -1,0 +1,42 @@
+{
+  "fps_average": "40.8",
+  "fps_median": "43.0",
+  "fps_diff": "2.2",
+  "app_time_average": "17325",
+  "app_time_median": "16055",
+  "app_time_diff": "1270",
+  "test_name": "PC_Crash_Test_No__Build_Inputs",
+  "timestamp": "29-08-2026_17-48-15",
+  "has_thumbnail": true,
+  "started_by": "TheTripleL123",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1oA3vEZft70Skk08DLKD5Zen52CZqCx-5",
+  "github_run_id": "33255533256",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 24d72fd5"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "fail",
+      "detail": "5/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "7 kills - 2 killers / 3 victims"
+    }
+  ],
+  "bots_joined": 5,
+  "bots_requested": 6,
+  "errors": 141,
+  "exceptions": 14,
+  "commit_sha": "9d8fd1cd7ab838bf9c4266fc6549cc0a2eb717cb",
+  "commit_ref": "master",
+  "test_successful": false
+}
