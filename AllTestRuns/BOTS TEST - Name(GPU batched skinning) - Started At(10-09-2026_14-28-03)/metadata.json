@@ -1,0 +1,42 @@
+{
+  "fps_average": "45.2",
+  "fps_median": "45.0",
+  "fps_diff": "-0.2",
+  "app_time_average": "11750",
+  "app_time_median": "11790",
+  "app_time_diff": "-40",
+  "test_name": "GPU batched skinning",
+  "timestamp": "10-09-2026_14-28-03",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1l6sQESZvXeYjhhiNFyjG1ERmsZamu6yK",
+  "github_run_id": "34470721867",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 3698a8b0"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "8 kills - 5 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 206,
+  "exceptions": 2,
+  "commit_sha": "21d49e45389d00f1673a880ed0447b10e821933a",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

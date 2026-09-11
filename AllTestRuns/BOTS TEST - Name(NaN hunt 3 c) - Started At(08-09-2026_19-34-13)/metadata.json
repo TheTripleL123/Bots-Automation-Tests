@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.6",
+  "fps_median": "45.0",
+  "fps_diff": "0.4",
+  "app_time_average": "12253",
+  "app_time_median": "12126",
+  "app_time_diff": "127",
+  "test_name": "NaN hunt 3 c",
+  "timestamp": "08-09-2026_19-34-13",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1Qaj3G5RwGgL_skVS7U4ZYjnA3yOkEzLP",
+  "github_run_id": "34248151009",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 9f1cc8a1"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "9 kills - 5 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 97,
+  "exceptions": 2,
+  "commit_sha": "86f987ba10a4390f008994780eaabafad4f4b8d0",
+  "commit_ref": "master",
+  "test_successful": true
+}

@@ -1,0 +1,42 @@
+{
+  "fps_average": "41.3",
+  "fps_median": "42.0",
+  "fps_diff": "0.7",
+  "app_time_average": "15822",
+  "app_time_median": "15777",
+  "app_time_diff": "45",
+  "test_name": "fixed - back to 45 + aa",
+  "timestamp": "04-09-2026_01-21-36",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1ZO_ZkNa6-vrQuJE3zcb93OYewC74bGTe",
+  "github_run_id": "33812065097",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 3b214a29"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "9 kills - 5 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 140,
+  "exceptions": 3785,
+  "commit_sha": "b097c2711a9a4320e6772962b40df9207f500522",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

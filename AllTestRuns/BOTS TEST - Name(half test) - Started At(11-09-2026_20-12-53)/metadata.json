@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.9",
+  "fps_median": "45.0",
+  "fps_diff": "0.1",
+  "app_time_average": "13678",
+  "app_time_median": "13704",
+  "app_time_diff": "-26",
+  "test_name": "half test",
+  "timestamp": "11-09-2026_20-12-53",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/13iHjUltOcQ_-AqrE1B9WVhhx0kH5lgqG",
+  "github_run_id": "34624955234",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room ea76608a"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "8 kills - 4 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 36,
+  "exceptions": 4,
+  "commit_sha": "8c9d637ad7873c3759cba53fab87740d1bab7d77",
+  "commit_ref": "matan/half-toon",
+  "test_successful": true
+}

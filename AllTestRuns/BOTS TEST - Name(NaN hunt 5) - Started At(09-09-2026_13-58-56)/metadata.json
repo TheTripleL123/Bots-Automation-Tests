@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.5",
+  "fps_median": "45.0",
+  "fps_diff": "0.5",
+  "app_time_average": "13923",
+  "app_time_median": "13864",
+  "app_time_diff": "59",
+  "test_name": "NaN hunt 5",
+  "timestamp": "09-09-2026_13-58-56",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1m_V34Skj2w6E0vaUap8MDHEvkolRDWUO",
+  "github_run_id": "34342450991",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 36bdbea8"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "6 kills - 5 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 227,
+  "exceptions": 2,
+  "commit_sha": "b0476c97e8265a71b66538664d627cb97b0fe030",
+  "commit_ref": "master",
+  "test_successful": true
+}

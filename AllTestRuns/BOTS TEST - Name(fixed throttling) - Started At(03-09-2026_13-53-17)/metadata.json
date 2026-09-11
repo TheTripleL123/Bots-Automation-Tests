@@ -1,0 +1,42 @@
+{
+  "fps_average": "39.9",
+  "fps_median": "40.0",
+  "fps_diff": "0.1",
+  "app_time_average": "14852",
+  "app_time_median": "14597",
+  "app_time_diff": "255",
+  "test_name": "fixed throttling",
+  "timestamp": "03-09-2026_13-53-17",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1Ndv0rKs3UElmJAcfRAMPl1LChUmqVkOo",
+  "github_run_id": "33746057692",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room bcd3d497"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "9 kills - 4 killers / 5 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 137,
+  "exceptions": 3,
+  "commit_sha": "508c8ff19bdbb430e17056c234e74a3334575394",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

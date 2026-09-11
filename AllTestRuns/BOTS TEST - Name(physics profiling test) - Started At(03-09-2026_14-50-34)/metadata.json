@@ -1,0 +1,42 @@
+{
+  "fps_average": "39.9",
+  "fps_median": "40.0",
+  "fps_diff": "0.1",
+  "app_time_average": "15639",
+  "app_time_median": "16100",
+  "app_time_diff": "-461",
+  "test_name": "physics profiling test",
+  "timestamp": "03-09-2026_14-50-34",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/122jlNaTHyKH1sqC6jdJ7YEA417b5VB0h",
+  "github_run_id": "33751248410",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 2c197277"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "11 kills - 5 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 63,
+  "exceptions": 2,
+  "commit_sha": "ea2d451a38848eaa73a4504538a52b116b31abd3",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}
