@@ -1,0 +1,42 @@
+{
+  "fps_average": "45.1",
+  "fps_median": "45.0",
+  "fps_diff": "-0.1",
+  "app_time_average": "13202",
+  "app_time_median": "14094",
+  "app_time_diff": "-892",
+  "test_name": "FX culling tiers",
+  "timestamp": "11-09-2026_15-44-42",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1fKJpMQyYhhqPAFjGQFDHKmeeT9Wel2Bj",
+  "github_run_id": "34599782188",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 88967e2c"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "7 kills - 4 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 148,
+  "exceptions": 2,
+  "commit_sha": "22b89a4fc966fb018ce4e9872a6a9e4e05b6e96e",
+  "commit_ref": "feature/MP/profiling-tests-2",
+  "test_successful": true
+}

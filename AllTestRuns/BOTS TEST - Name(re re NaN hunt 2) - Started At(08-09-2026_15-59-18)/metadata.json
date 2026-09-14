@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.7",
+  "fps_median": "45.0",
+  "fps_diff": "0.3",
+  "app_time_average": "14230",
+  "app_time_median": "14474",
+  "app_time_diff": "-244",
+  "test_name": "re re NaN hunt 2",
+  "timestamp": "08-09-2026_15-59-18",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1YDkYNsj7irGO-0suPx1ZSojaPVjDVAY_",
+  "github_run_id": "34228255106",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room 2330bf93"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "5 kills - 2 killers / 4 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 155,
+  "exceptions": 2,
+  "commit_sha": "465fd2c8f990edf11592d2df56c33190a1050cb9",
+  "commit_ref": "master",
+  "test_successful": true
+}
