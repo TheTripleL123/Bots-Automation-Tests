@@ -1,0 +1,42 @@
+{
+  "fps_average": "45.3",
+  "fps_median": "45.0",
+  "fps_diff": "-0.3",
+  "app_time_average": "14528",
+  "app_time_median": "14582",
+  "app_time_diff": "-54",
+  "test_name": "network test 3",
+  "timestamp": "15-09-2026_03-46-33",
+  "has_thumbnail": true,
+  "started_by": "Matan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/12YFmDSi6IRkb2M_jyKljy-6wQX2ZwR4K",
+  "github_run_id": "34914045481",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Red Cage - room da045fc4"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "7 kills - 3 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 65,
+  "exceptions": 3,
+  "commit_sha": "2b6e15cb4c13ceb11a928ce8aa6c1a71fd76d6be",
+  "commit_ref": "matan/optimizations-2",
+  "test_successful": true
+}
